@@ -5,4 +5,31 @@
 h1 {
 	color:lightpink;
 }
+.topnav {
+   background-color: #333333;
+   overflow: hidden;
+}
+.topnav {
+   background-color: white ;
+   overflow: hidden;
+}
+
+.topnav a {
+   float: left;
+   color: #902C3E;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: hotpink;
+   color: black;
+}
+
+.topnav a.active {
+   background-color: #902C3E ;
+   color: #F9F6EE;
+}
 </style 
